@@ -1,0 +1,15 @@
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\bin\Debug\net6.0\Задача1.exe
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\bin\Debug\net6.0\Задача1.deps.json
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\bin\Debug\net6.0\Задача1.runtimeconfig.json
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\bin\Debug\net6.0\Задача1.dll
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\bin\Debug\net6.0\Задача1.pdb
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.dll
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\refint\Задача1.dll
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.pdb
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\Задача1.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Desktop\C#\Семинары\Семинар 1\Домашки\Задача1\obj\Debug\net6.0\ref\Задача1.dll
